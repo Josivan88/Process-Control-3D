@@ -1,0 +1,59 @@
+﻿
+15.03.48 23-05-2021 Programa iniciado
+15.03.49 23-05-2021 Indentificação de dados locais obtida
+15.03.50 23-05-2021 Processo verificado na porta \\.\COM12
+15.03.50 23-05-2021 O reconhecimento de voz está indisponível!
+15.03.50 23-05-2021 Conexão com o dispositivo de controle resetada
+15.03.53 23-05-2021 Indentificação de dados de clima obtida
+15.03.57 23-05-2021 Conectado ao servidor mestre
+15.04.00 23-05-2021 Conectado a sala Processo Teste
+15.04.20 23-05-2021 Indentificação de dados de clima obtida
+15.04.50 23-05-2021 Relatório informado
+15.05.50 23-05-2021 Relatório informado
+15.07.50 23-05-2021 Relatório informado
+15.08.27 23-05-2021 Pedido de relatório
+15.11.52 23-05-2021 Relatório informado
+16.41.04 07-10-2021 Programa iniciado
+16.41.06 07-10-2021 O reconhecimento de voz está indisponível!
+16.41.17 07-10-2021 Conectado ao servidor mestre
+16.42.06 07-10-2021 Relatório informado
+16.43.12 07-10-2021 Relatório informado
+16.45.06 07-10-2021 Relatório informado
+16.48.18 07-10-2021 Desconectado: DisconnectByClientLogic
+16.51.13 07-10-2021 Programa iniciado
+16.51.13 07-10-2021 O reconhecimento de voz está indisponível!
+16.51.20 07-10-2021 Conectado ao servidor mestre
+16.52.13 07-10-2021 Relatório informado
+16.53.13 07-10-2021 Relatório informado
+16.55.13 07-10-2021 Relatório informado
+16.57.20 07-10-2021 Desconectado: DisconnectByClientLogic
+11.58.29 16-05-2023 Programa iniciado
+11.58.30 16-05-2023 Erro ao adquirir dados de localização: Cannot resolve destination host
+11.58.33 16-05-2023 O reconhecimento de voz está indisponível!
+11.59.32 16-05-2023 Relatório informado
+12.00.33 16-05-2023 Relatório informado
+19.10.08 22-05-2025 Programa iniciado
+19.10.09 22-05-2025 Processo verificado na porta COM7
+19.10.10 22-05-2025 O reconhecimento de voz está indisponível!
+19.10.10 22-05-2025 Conexão com o dispositivo de controle resetada
+19.10.11 22-05-2025 Houve alteração na página de indentificação de dados locais
+19.10.12 22-05-2025 Houve alteração na página de indentificação de dados locais
+19.10.20 22-05-2025 Conectado ao servidor mestre
+19.10.24 22-05-2025 Conectado a sala Processo Teste
+19.11.09 22-05-2025 Relatório informado
+19.12.10 22-05-2025 Relatório informado
+19.14.10 22-05-2025 Relatório informado
+19.16.53 22-05-2025 Desconectado: DisconnectByClientLogic
+16.29.48 06-08-2025 Programa iniciado
+16.29.48 06-08-2025 O reconhecimento de voz está indisponível!
+16.29.50 06-08-2025 Houve alteração na página de indentificação de dados locais
+16.29.50 06-08-2025 Processo verificado na porta COM4
+16.29.51 06-08-2025 Conexão com o dispositivo de controle resetada
+16.30.23 06-08-2025 Pedido de relatório
+16.30.48 06-08-2025 Relatório informado
+11.25.57 27-08-2025 Programa iniciado
+11.26.00 27-08-2025 Erro ao adquirir dados de localização: SSL CA certificate error
+11.26.00 27-08-2025 O reconhecimento de voz está indisponível!
+11.26.59 27-08-2025 Relatório informado
+11.28.05 27-08-2025 Relatório informado
+11.29.59 27-08-2025 Relatório informado

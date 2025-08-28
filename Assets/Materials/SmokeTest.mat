@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SmokeTest
+  m_Shader: {fileID: 4800000, guid: 71f899c6d4175884d9835cc4ec031a49, type: 3}
+  m_ShaderKeywords: _MOVE_ON _VERTEXDISPLACEMENT_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Alpha:
+        m_Texture: {fileID: 2800000, guid: 28c7aad1372ff114b90d330f8a2dd938, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AtenuationMap:
+        m_Texture: {fileID: 2800000, guid: 3a5a96df060a5cf4a9cc0c59e13486b7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Bump:
+        m_Texture: {fileID: 2800000, guid: 92936b803cd0d7e4e816b87f122a05d6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Bump2:
+        m_Texture: {fileID: 2800000, guid: 92936b803cd0d7e4e816b87f122a05d6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 8900000, guid: 589cdd4bd5e5f9a489f3e07ce593864d, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Difuse:
+        m_Texture: {fileID: 2800000, guid: e59862f2ae1a81340a03678bc647efac, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DisplaceMap:
+        m_Texture: {fileID: 2800000, guid: 28c7aad1372ff114b90d330f8a2dd938, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DisplaceMap2:
+        m_Texture: {fileID: 2800000, guid: 92936b803cd0d7e4e816b87f122a05d6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlowMap:
+        m_Texture: {fileID: 2800000, guid: 92936b803cd0d7e4e816b87f122a05d6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FoamNoise:
+        m_Texture: {fileID: 2800000, guid: 28c7aad1372ff114b90d330f8a2dd938, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FoamTexture:
+        m_Texture: {fileID: 2800000, guid: 28c7aad1372ff114b90d330f8a2dd938, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Agitation: 0.2
+    - _AmplitudeRotation: 120
+    - _Blend: 0.13
+    - _BumpScale: 1
+    - _CutOut: 0.615
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _FoamFactor: 0
+    - _Frequency: 24.5
+    - _Fresnel: 1
+    - _FresnelPower: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _High_Frequency_Heigth: 0.246
+    - _Intensity: 1
+    - _Leaf_Scattering: 0.711
+    - _Low_Frequency_Heigth: 0.238
+    - _MasterOpacity: 1
+    - _Metallic: 0
+    - _Mixer: 0.226
+    - _Mode: 0
+    - _Move: 1
+    - _OcclusionStrength: 1
+    - _Opacity: 1
+    - _OpacityBust: 0.1
+    - _Parallax: 0.02
+    - _Phase: 0
+    - _Reflection: 1
+    - _Refraction: 0.25
+    - _Seed: 12.7
+    - _SmoothnessTextureChannel: 0
+    - _Specular: 0.5
+    - _SpecularHighlights: 1
+    - _Speed: 2.02
+    - _SrcBlend: 1
+    - _Turbidity: 0.95
+    - _UVSec: 0
+    - _UVWorldPos: 1
+    - _VertexDisplacement: 1
+    - _XTilling: 400
+    - _YTilling: 200
+    - _ZWrite: 1
+    - _fadeDistance: 2.44
+    - _stretchX: 0.82
+    - _stretchY: 1
+    m_Colors:
+    - _Color: {r: 0.4669811, g: 1, b: 0.9894526, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FoamColor: {r: 0.9882353, g: 0.9686275, b: 0.8823529, a: 1}
+    - _Specular: {r: 0.1617647, g: 0.1617647, b: 0.1617647, a: 1}
+    - _color: {r: 0.5943396, g: 0.5943396, b: 0.5943396, a: 1}
+    - _node_7637: {r: 1, g: 1, b: 1, a: 1}
